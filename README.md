@@ -14,8 +14,8 @@ Access Google colab notebook for image generation codes using cleaned/processed 
 ## Removal of uncleaned images 
 ![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/removal%20of%20uncleaned%20images.png)
 
-## Sample of cleaned images use for training
+## Sample of cleaned images used for DCGAN training
 ![Sample Processed images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/Cleanimages%20sample.png)
 
-# Sample of generated images using entire image dataset of 7,731
+## Sample of generated images using entire image dataset of 7,731
 ![Generated images using processed/cleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/Generated%20images%20trained%20using%20cleaned%20dataset.png)
