@@ -8,7 +8,7 @@ Access Google colab notebook for image generation codes using cleaned/processed 
 ![Pre-processing results](https://github.com/mingxiuuuuu/cleanedimages/blob/master/results%20of%20pre-processed%20image.png)
 
 ## 2nd round of image pre-processing to remove noise 
-![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/results%20of%20pre-processed%20image.png)
+![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/second%20round%20of%20image%20pre-processing.png)
 
 ## Removal of uncleaned images 
 ![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/results%20of%20pre-processed%20image.png)
