@@ -11,7 +11,7 @@ Access Google colab notebook for image generation codes using cleaned/processed 
 ![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/second%20round%20of%20image%20pre-processing.png)
 
 ## Removal of uncleaned images 
-![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/results%20of%20pre-processed%20image.png)
+![uncleaned images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/removal%20of%20uncleaned%20images.png)
 
 ## Sample of cleaned images use for training
 ![Sample Processed images](https://github.com/mingxiuuuuu/cleanedimages/blob/master/Cleanimages%20sample.png)
